@@ -1,0 +1,22 @@
+.contacts {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.contacts h2 {
+  font-size: 34px;
+}
+
+.contacts p {
+  font-size: 26px;
+}
+
+.icons {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.icon img {
+  width: 60px; /* Размер иконок */
+}
